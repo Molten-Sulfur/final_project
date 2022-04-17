@@ -1,0 +1,31 @@
+h1 {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: verdana;
+}
+
+h2 {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: verdana;
+}
+
+p {
+  color: #3D3D3D;
+  margin-left:5%;
+  font-family: garamond;
+  font-size: 60%;
+}
+
+p1 {
+  text-align: center;
+  color: #3D3D3D;
+  font-family: garamond;
+  font-size: 120%;
+}
+
+#divMap { 
+  height: 900px; 
+  margin-left: 5%;
+  width: 90%;
+}
